@@ -1,0 +1,12 @@
+# em is served by a back end server. This controls which port to use.
+server.port: 3000
+
+# The host to bind the server to.
+# server.host: "0.0.0.0"
+
+# The default application to load. Valid values "dev","prod","development","production"
+env: "dev"
+
+# The default application to load.
+em.defaultAppId: "home"
+
